@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/twittor/public/sw.js';
+var swLocation = '/twittor2/public/sw.js';
 
 class Camara{
     constructor(videoNode){
